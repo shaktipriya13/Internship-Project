@@ -62,7 +62,7 @@ This project involves creating a responsive webpage that adjusts to different sc
 
 # Part 2: Django Chat Application
 
-***Hosted website:  https://myultimateapp-chat-app.onrender.com/login***
+***Hosted website Link:  https://myultimateapp-chat-app.onrender.com/login***
 
 This project is a real-time chat application that allows users to sign up, log in, view a list of registered users, and chat with other users. The app features a user-friendly interface with WebSocket support for instant communication. All user data and chat messages are stored in a database, and previous messages can be retrieved and displayed in the chat interface.
 
