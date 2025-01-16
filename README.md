@@ -62,6 +62,8 @@ This project involves creating a responsive webpage that adjusts to different sc
 
 # Part 2: Django Chat Application
 
+***Hosted website:  https://myultimateapp-chat-app.onrender.com/login***
+
 This project is a real-time chat application that allows users to sign up, log in, view a list of registered users, and chat with other users. The app features a user-friendly interface with WebSocket support for instant communication. All user data and chat messages are stored in a database, and previous messages can be retrieved and displayed in the chat interface.
 
 ## Features
@@ -154,6 +156,8 @@ npm start
 
 Create a new account or log in with your credentials.
 
+![1737004212947](image/README/1737004212947.png)
+
 #### View Users:
 
 Once logged in, the left menu will display all registered users. You can click on any user to start a chat.
@@ -161,6 +165,8 @@ Once logged in, the left menu will display all registered users. You can click o
 #### Start Chatting:
 
 Select a user and begin chatting. Messages will be sent in real-time via WebSocket.
+
+![1737004232081](image/README/1737004232081.png)
 
 #### Message History:
 
