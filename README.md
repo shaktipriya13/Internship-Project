@@ -2,7 +2,6 @@
 
 ## Part 1: Frontend Development - Responsive Webpage
 
-
 ## Overview
 
 This project involves creating a responsive webpage that adjusts to different screen sizes. The layout consists of a fixed navbar, a collapsible left menu, a main content area, and a right-side panel. A footer is included at the bottom of the page. Additionally, JavaScript functionality is implemented to adjust the page’s width based on screen width.
@@ -62,7 +61,6 @@ This project involves creating a responsive webpage that adjusts to different sc
 ---
 
 # Part 2: Django Chat Application
-
 
 This project is a real-time chat application that allows users to sign up, log in, view a list of registered users, and chat with other users. The app features a user-friendly interface with WebSocket support for instant communication. All user data and chat messages are stored in a database, and previous messages can be retrieved and displayed in the chat interface.
 
@@ -167,3 +165,7 @@ Select a user and begin chatting. Messages will be sent in real-time via WebSock
 #### Message History:
 
 Previous messages will automatically load when you start a new chat with any user.
+
+---
+
+---
