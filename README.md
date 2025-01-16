@@ -62,7 +62,7 @@ This project involves creating a responsive webpage that adjusts to different sc
 
 # Part 2: Django Chat Application
 
-***Hosted website:  https://chat-app-sable-delta.vercel.app/chat***
+***Hosted website:  https://myultimateapp-chat-app.onrender.com/login***
 
 This project is a real-time chat application that allows users to sign up, log in, view a list of registered users, and chat with other users. The app features a user-friendly interface with WebSocket support for instant communication. All user data and chat messages are stored in a database, and previous messages can be retrieved and displayed in the chat interface.
 
@@ -172,15 +172,15 @@ Previous messages will automatically load when you start a new chat with any use
 
 ### Login Page
 
-![1737004841761](image/README/1737004841761.png)
+![1737013115368](image/README/1737013115368.png)
 
 ### Profile Update Page
 
-![1737005040454](image/README/1737005040454.png)
+![1737013166367](image/README/1737013166367.png)
 
 ### Chat Screen
 
-![1737005064872](image/README/1737005064872.png)
+![1737013143525](image/README/1737013143525.png)
 
 ---
 
