@@ -169,3 +169,7 @@ Previous messages will automatically load when you start a new chat with any use
 ---
 
 ---
+
+# PART 3: AWS ASSIGNMENT:
+
+For part 3 do visit the README.md file of AWS_assignment folder .
